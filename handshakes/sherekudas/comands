@@ -1,0 +1,1 @@
+sudo airodump-ng wlan1mon --band a --channel 44 --bssid 86:0B:BB:52:0B:17

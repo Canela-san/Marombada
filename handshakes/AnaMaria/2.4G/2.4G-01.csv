@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+44:3B:32:79:A1:A7, 2023-09-17 00:46:58, 2023-09-17 00:47:25,  4, 270, WPA2, CCMP TKIP, PSK, -58,      256,        0,   0.  0.  0.  0,  24, Pensionato Ana Maria Sup, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

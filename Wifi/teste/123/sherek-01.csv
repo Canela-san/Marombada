@@ -1,0 +1,12 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+84:0B:BB:52:0B:10, 2023-09-12 16:07:17, 2023-09-12 16:49:59,  1, 130, WPA2, CCMP, PSK, -59,    23311,    46651,   0.  0.  0.  0,  13, Rep Shrekudas, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+8A:37:6C:B1:A0:D1, 2023-09-12 16:07:17, 2023-09-12 16:48:39, -51,    54265, 84:0B:BB:52:0B:10,Rep Shrekudas
+20:47:DA:13:E5:E9, 2023-09-12 16:07:49, 2023-09-12 16:49:40, -59,      535, 84:0B:BB:52:0B:10,
+A4:63:A1:40:71:C7, 2023-09-12 16:08:38, 2023-09-12 16:49:58, -59,     4116, 84:0B:BB:52:0B:10,
+AA:37:2D:00:C8:60, 2023-09-12 16:09:08, 2023-09-12 16:49:45, -59,      844, 84:0B:BB:52:0B:10,
+AE:7F:48:B0:0F:72, 2023-09-12 16:18:42, 2023-09-12 16:49:44, -62,    36115, 84:0B:BB:52:0B:10,
+02:71:89:4E:A6:11, 2023-09-12 16:28:41, 2023-09-12 16:29:12, -66,       53, 84:0B:BB:52:0B:10,
+

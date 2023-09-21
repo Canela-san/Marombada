@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+44:DF:65:66:E5:B9, 2023-09-12 13:44:36, 2023-09-12 13:46:46, 12, 648, WPA3 WPA2, CCMP, SAE PSK, -65,     1119,       37,   0.  0.  0.  0,  16, Disneylândia 2G, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+F0:35:75:2C:20:85, 2023-09-12 13:44:43, 2023-09-12 13:46:24, -63,      567, 44:DF:65:66:E5:B9,
+

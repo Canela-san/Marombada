@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+28:3B:82:40:93:90, 2023-09-17 01:19:40, 2023-09-17 01:20:02, 11, 130, WPA2, CCMP TKIP, PSK, -55,       52,        0,   0.  0.  0.  0,  19, Pensionato Corredor, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+
